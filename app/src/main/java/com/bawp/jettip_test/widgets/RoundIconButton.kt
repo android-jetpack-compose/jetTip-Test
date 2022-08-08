@@ -16,7 +16,7 @@ import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
-import com.bawp.jettip_test.MyApp
+import com.bawp.jettip_test.screen.home.MyApp
 
 private val RippleRadius = 24.dp
 private val IconButtonSizeModifier = Modifier.size(40.dp)

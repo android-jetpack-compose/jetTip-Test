@@ -13,8 +13,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.bawp.jettip_test.MyApp
-
+import com.bawp.jettip_test.screen.home.MyApp
 
 
 @Composable

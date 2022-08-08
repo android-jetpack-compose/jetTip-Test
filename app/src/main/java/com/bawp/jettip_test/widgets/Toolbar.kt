@@ -14,7 +14,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.bawp.jettip_test.MyApp
+import com.bawp.jettip_test.screen.home.MyApp
 import com.bawp.jettip_test.R
 import com.bawp.jettip_test.ui.theme.darkTextColor
 import com.bawp.jettip_test.ui.theme.foregroundColor
